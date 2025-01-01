@@ -1,5 +1,2 @@
-iiiiii
-<<<<<<< HEAD
-=======
-nnnnnn
->>>>>>> gitlabfinal
+iiiii
+nnnn gitlabfinal
